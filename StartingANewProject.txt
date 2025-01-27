@@ -1,0 +1,23 @@
+Starting a new project, create a folder and cd into it on command line
+After using cd your commands will now only affect your chosen folder
+
+Do these next steps:
+
+1.  npx create-next-app@latest my-tailwind-app
+
+2.  Respond the following when prompted:
+
+!
+    Would you like to use TypeScript? Yes
+    Would you like to use ESLint? Yes
+    Would you like to use Tailwind CSS? Yes
+    Would you like to use `src/` directory? No
+    Would you like to use App Router? Yes
+    Would you like to use the default import alias (@/*)? No
+    Would you like to use Turbopack? No
+!
+
+3. A new project directory has been made in your folder, cd into it
+    ex: cd my-tailwind-app
+
+4.

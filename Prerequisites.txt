@@ -1,0 +1,24 @@
+!
+    Read up on Web Development essentials or have familiarity
+    with frameworks such as Java, HTML, or React Native. If you
+    are new to development in general I reccomend learning
+    HTML-5, then React Native before tackling Next.JS
+!
+
+Minimum specifications for the software deployment
+CPU: 2.2GHz, 2 cores, 2 logical processors
+RAM: 4GB
+Storage: SSD
+GPU: Integrated graphics
+
+Mandatory installs:
+
+- Node.js installed (v18 or higher)
+
+- VS Code installed
+
+Reccomended installs:
+
+- GitHub Desktop (Save and Load repositories)
+
+- Tailwind CSS IntelliSense | Extension on VSCode
