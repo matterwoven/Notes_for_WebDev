@@ -20,4 +20,9 @@ Do these next steps:
 3. A new project directory has been made in your folder, cd into it
     ex: cd my-tailwind-app
 
-4.
+4. When you're ready to run your app: 
+        npm run dev
+        # or
+        yarn dev
+        # or
+        pnpm dev
